@@ -1,0 +1,111 @@
+/*
+	ADMIN CSS
+*/
+
+.wp-block-zidithemes-img-block  {
+    
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg {
+	display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0px auto;
+    width: 95%;
+    padding: 50px 0px;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image {
+	box-shadow: 0px 0px 17px 1px rgba(20,23,28,0.3), 0 3px 1px 0 rgba(20,23,28,.3);
+    margin: 0px 0px 20px 0px;
+    background: #fff;
+    position: relative;
+    width: 96%;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .zidithemes-testimonials-details{}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .zidithemes-testimonials-details 
+.zidithemes-testimonials-details-inner {}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .zidithemes-testimonials-details 
+.zidithemes-testimonials-details-inner .components-base-control {
+    
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .zidithemes-testimonials-details 
+.zidithemes-testimonials-details-inner .components-base-control .components-textarea-control__input {
+    background: #909090;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .zidithemes-testimonials-details 
+.zidithemes-testimonials-details-inner .components-base-control #inspector-textarea-control-0 {
+    background: #909090;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .image-active  {}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .image-inactive  {}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .image-inactive .components-button {
+    width: 110px;
+    margin: 20px auto 0px;
+    display: block;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image .image-button {
+    width: 100%;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image img{
+	width: 135px;
+    height: 160px;
+    display: block;
+    margin: 30px auto 30px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 5px rgba(0,0,0,.4);
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image 
+.zidithemes-testimonials-details{}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image 
+.zidithemes-testimonials-details .zidithemes-testimonials-details-inner{
+    margin: 0px 20px 30px 20px;
+    box-sizing: border-box;
+}
+
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image 
+.zidithemes-testimonials-details .zidithemes-testimonials-details-inner .desc{ 
+	text-align: center;
+	line-height: 26px;
+    font-size: 17px;
+    letter-spacing: 0.6px;
+    color: #353535;
+    padding: 0px 34px;
+	margin-bottom: 15px;
+}
+
+.wp-block-zidithemes-img-block .zidithemes-mg .zidithemes-testimonials-image 
+.zidithemes-testimonials-details .zidithemes-testimonials-details-inner .name{ 
+	text-align: center;
+	font-size: 21px;
+    font-weight: 600;
+    margin-bottom: 15px; 
+}
+.zidithemes-testimonials-image {}
+
+.zidithemes-testimonials-image img {
+	width: 120px;
+    height: 120px;
+    display: block;
+    margin: 30px auto 30px;
+    border-radius: 50%;
+    box-shadow: 0px 5px 5px rgba(0,0,0,.4);
+}
+
+.zidithemes-testimonials-image .zidithemes-testimonials-details {}
+
+.zidithemes-testimonials-image 
+.zidithemes-testimonials-details .zidithemes-testimonials-details-inner {}
